@@ -1,4 +1,4 @@
-# NastyProject 🥫
+# FoodMesh 🥫
 
 Somos un equipo de estudiantes de la **Escuela Colombiana de Ingeniería Julio Garavito** (curso TDSE) construyendo **FoodMesh**: una plataforma cloud multi-tenant para reducir el desperdicio de alimentos conectando el consumo de los hogares con el retail.
 
